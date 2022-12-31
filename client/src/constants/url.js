@@ -1,0 +1,2 @@
+export const URL_WORDS = 'http://localhost:8899/';
+export const LOGO = 'https://s3-alpha-sig.figma.com/img/4868/c6fd/a5ea52463ffc15d7c193943934f7203c?Expires=1673222400&Signature=QsaOTQG6Amt04OMajZecgQC7yDwhvO12iOK-G2Q82x38sGQa3XrNNTSSywek-GdwlASPT4v8c0JuIKiPu~cVfzGkV16RI70fJQ2ZE3V9tW7MMHwgI35G0twzUdzI6zNYUZGaiwuszzyf5xg0GtttW~OpP~gjGWTR45mqt8iy8fP-Pc9vUaLGDEDCk0FgpBmqCV1-2UW1t7XnGBDAXRw7~S8U~XYY1OCJwu7Uir90lO5pwh8Vay3~J4~gpuhxAhHP-zEKwN9KIr~z8KzQMD-wcNWpO2pRiY5teUqoxDZ9NSUuI6Rxvmt4qrvRQkT9jE1g~CRbxeaqq4v~0dRWUYnmig__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
