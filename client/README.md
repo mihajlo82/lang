@@ -1,7 +1,7 @@
 # Getting Started with Frontend Side
 
 ### `npm install`
-This is the first command you should type into a console which is located under the 'frontend/origo' path 
+This is the first command you should type into a console which is located under the './client' path 
 
 
 ### `npm start`
